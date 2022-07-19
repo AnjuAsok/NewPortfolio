@@ -1,0 +1,22 @@
+.banner{
+    background-image: url('photo-1518655048521-f130df041f66.avif');
+    background-position: center top;
+    height:600px;
+    background-size: cover;
+    color:black;
+    
+}
+.row{
+    padding: 50px;
+}
+
+.bi{
+    color: lightseagreen;
+    font-weight: justify;
+}
+.bi:hover{
+    color: lightcoral;
+}
+.btn{
+    border-radius: 12px;
+}

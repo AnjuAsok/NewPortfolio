@@ -1,0 +1,11 @@
+.testimonial{
+    margin-top: 30px;
+    text-align: center;
+}
+.carousel{
+    background-color: black;
+    padding: 20px 20px;
+    color: white;
+    margin: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
